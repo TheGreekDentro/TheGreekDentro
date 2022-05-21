@@ -1,0 +1,4 @@
+- 👋 Hi, I’m TheGreekDentro
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript and Python
+- 📫 How to reach me: Discord: Dentro2#1149
